@@ -77,3 +77,11 @@ src/
 ## License
 
 MIT License
+
+### About Me
+👤 Author
+Shaik Rizwana Begum
+🔗 GitHub: https://github.com/Rizwana333
+📧 Email: shaikrizwanabegum153@gmail.com
+💬 LinkedIn: https://www.linkedin.com/in/shaik-rizwana-begum-459a46269
+Demo: https://drive.google.com/file/d/1POyfmNhnP9D0nByYehcwSY-ASKn4-F-d/view?usp=drivesdk
