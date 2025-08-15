@@ -1,4 +1,4 @@
-# 3KR-Elecrical-Appliances
+
 # 3KR Electrical - E-commerce Platform
 
 A modern, responsive e-commerce platform for electrical appliances built with React, TypeScript, and Tailwind CSS.
